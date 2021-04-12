@@ -1,7 +1,6 @@
 import java.security.*;
 import java.util.*;
 import java.io.*;
-//i helped nikki nicolas and suri sahay with this assignment.
 public class PassCrack {
 
     static String getHash(String salt, String pwd) throws NoSuchAlgorithmException {
